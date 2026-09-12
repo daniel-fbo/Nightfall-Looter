@@ -1,0 +1,1 @@
+# Enum/classe de estados do jogo (NOITE, DIA, CIDADE)
