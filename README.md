@@ -1,6 +1,6 @@
 <h1><font size="6"><b>Nightfall Looter</b></font><br></h1>
 <h3><b>Número da Lista:</b> [PREENCHER]<br></h3>
-<h3><i>Conteúdo da disciplina:</i> Programação Dinâmica<br></h3>
+<h3><i>Conteúdo da disciplina:</i> Algoritmos Gulosos<br></h3>
 <h3>Alunos</h3>
 
 | Matrícula | Aluno |
